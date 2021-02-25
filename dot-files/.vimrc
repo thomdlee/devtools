@@ -49,3 +49,6 @@ endif
 autocmd vimenter * ++nested colorscheme gruvbox
 set background=dark
 
+"Nerdtree config
+let NERDTreeShowHidden=1
+
