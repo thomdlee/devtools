@@ -23,6 +23,8 @@ Plugin 'leafgarland/typescript-vim' "Adds typescript syntax highlighting
 Plugin 'morhetz/gruvbox' "color scheme
 Plugin 'maxmellon/vim-jsx-pretty' "Adds JSX syntax highlighting
 Plugin 'neoclide/coc.nvim' "Typescript intellisense
+Plugin 'Xuyuanp/nerdtree-git-plugin' "Add git integration for nerdtree
+Plugin 'ctrlpvim/ctrlp.vim' "Add fuzzy search
 
 call vundle#end()
 
